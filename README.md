@@ -14,10 +14,10 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/gaurav-darjið®ð³-75821b246/">
+  <a href="https://www.linkedin.com/in/gaurav-darji-75821b246/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/gaurav-drj/Gaurav-drj">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -33,7 +33,7 @@ Hello! I'm **Gaurav Darji**, an aspiring cybersecurity professional from **Gujar
 I enjoy learning how digital systems work, understanding security risks, and documenting technical findings clearly and responsibly.
 
 - Pursuing a **Bachelor of Computer Applications (BCA)**
-- Certified Cyber Security Expert (CCSE)** â CYBERERA
+- Certified Cyber Security Expert (CCSE) **CYBERERA**
 - Interested in **Cyber Crime Investigation, Digital Forensics & OSINT**
 - Learning networking, security fundamentals, and incident-response workflows
 - Familiar with programming, databases, operating systems, and web fundamentals
@@ -96,15 +96,15 @@ A web application concept for booking salon services. The project description on
 | Qualification | Details |
 |---|---|
 | Bachelor of Computer Applications (BCA) | Pursuing |
-| Certified Cyber Security Expert (CCSE) | CYBERERA Â· Distinction Â· September 2026 |
+| Certified Cyber Security Expert (CCSE) | CYBERERA  Distinction  September 2026 |
 | Certified Cyber Crime Investigation (CCCI) | CYBERERA |
 
 ## GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gaurav-drj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-drj&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-drj&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -112,7 +112,7 @@ A web application concept for booking salon services. The project description on
 
 ## Connect With Me
 
-- **LinkedIn:** [Gaurav Darji](https://www.linkedin.com/in/gaurav-darjið®ð³-75821b246/)
+- **LinkedIn:** [Gaurav Darji](https://www.linkedin.com/in/gaurav-darji-75821b246/)
 - **GitHub:** [gaurav-drj](https://github.com/gaurav-drj)
 
 ---
