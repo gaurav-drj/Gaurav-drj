@@ -26,22 +26,22 @@
 
 ---
 
-## ð¨âð» About Me
+## About Me
 
 Hello! I'm **Gaurav Darji**, an aspiring cybersecurity professional from **Gujarat, India**. I'm interested in cybersecurity, cyber crime investigation, digital forensics, and Open-Source Intelligence (OSINT).
 
 I enjoy learning how digital systems work, understanding security risks, and documenting technical findings clearly and responsibly.
 
-- ð Pursuing a **Bachelor of Computer Applications (BCA)**
-- ð¡ï¸ **Certified Cyber Security Expert (CCSE)** â CYBERERA
-- ð Interested in **Cyber Crime Investigation, Digital Forensics & OSINT**
-- ð Learning networking, security fundamentals, and incident-response workflows
-- ð§© Familiar with programming, databases, operating systems, and web fundamentals
-- ð¤ Open to learning opportunities, collaboration, and entry-level cybersecurity roles
+- Pursuing a **Bachelor of Computer Applications (BCA)**
+- Certified Cyber Security Expert (CCSE)** â CYBERERA
+- Interested in **Cyber Crime Investigation, Digital Forensics & OSINT**
+- Learning networking, security fundamentals, and incident-response workflows
+- Familiar with programming, databases, operating systems, and web fundamentals
+- Open to learning opportunities, collaboration, and entry-level cybersecurity roles
 
 > **My goal:** Keep learning, work ethically, and contribute to a safer digital world.
 
-## ð§­ Areas of Interest
+Areas of Interest
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-0B7285?style=flat-square&logo=security&logoColor=white" alt="Cybersecurity" />
@@ -52,7 +52,7 @@ I enjoy learning how digital systems work, understanding security risks, and doc
   <img src="https://img.shields.io/badge/Security_Awareness-5A189A?style=flat-square" alt="Security Awareness" />
 </p>
 
-## ð§° Skills & Technologies
+## Skills & Technologies
 
 **Programming and Web**
 
@@ -77,11 +77,11 @@ I enjoy learning how digital systems work, understanding security risks, and doc
 
 *These are learning and foundational skill areas; tool proficiency is listed only where personally practiced.*
 
-## ð Projects
+## Projects
 
-### Ganesha'j Salon â Salon Services Booking
+### Ganesha'j Salon and Salon Services Booking
 
-**LinkedIn project Â· September 2025 â January 2026**
+**LinkedIn project September 2025 to January 2026**
 
 A web application concept for booking salon services. The project description on LinkedIn covers browsing services, selecting treatments and service providers, booking appointments, and electronic payments.
 
@@ -91,7 +91,7 @@ A web application concept for booking salon services. The project description on
 
 > This project is included as a web application project from my LinkedIn profile. It is not presented as a cybersecurity tool.
 
-## ð Education & Certifications
+## Education & Certifications
 
 | Qualification | Details |
 |---|---|
@@ -99,7 +99,7 @@ A web application concept for booking salon services. The project description on
 | Certified Cyber Security Expert (CCSE) | CYBERERA Â· Distinction Â· September 2026 |
 | Certified Cyber Crime Investigation (CCCI) | CYBERERA |
 
-## ð GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
@@ -110,7 +110,7 @@ A web application concept for booking salon services. The project description on
 
 </div>
 
-## ð¤ Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [Gaurav Darji](https://www.linkedin.com/in/gaurav-darjið®ð³-75821b246/)
 - **GitHub:** [gaurav-drj](https://github.com/gaurav-drj)
@@ -121,7 +121,7 @@ A web application concept for booking salon services. The project description on
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Animated coding illustration" />
 
-**âLearning every day. Building responsibly. Making the digital world safer.â**
+**Learning every day. Building responsibly. Making the digital world safer.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:123b5d,100:07111f&height=100&section=footer" width="100%" alt="" />
 
